@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=Zen Browser
-Exec=env MOZ_ENABLE_WAYLAND=0 zen %u
+Exec=zen %u
 Icon=zen
 Type=Application
 MimeType=text/html;text/xml;application/xhtml+xml;x-scheme-handler/http;x-scheme-handler/https;application/x-xpinstall;application/pdf;application/json;
